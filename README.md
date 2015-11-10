@@ -1,0 +1,2 @@
+# OSXShellScripts
+basic scripts
